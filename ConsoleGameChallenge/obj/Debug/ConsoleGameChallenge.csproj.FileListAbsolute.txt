@@ -1,0 +1,6 @@
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\ConsoleGameChallenge\ConsoleGameChallenge\bin\Debug\ConsoleGameChallenge.exe.config
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\ConsoleGameChallenge\ConsoleGameChallenge\bin\Debug\ConsoleGameChallenge.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\ConsoleGameChallenge\ConsoleGameChallenge\bin\Debug\ConsoleGameChallenge.pdb
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\ConsoleGameChallenge\ConsoleGameChallenge\obj\Debug\ConsoleGameChallenge.csprojAssemblyReference.cache
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\ConsoleGameChallenge\ConsoleGameChallenge\obj\Debug\ConsoleGameChallenge.exe
+C:\Users\pksmi\Documents\ElevenFiftyProjects\GoldBadge\ConsoleGameChallenge\ConsoleGameChallenge\obj\Debug\ConsoleGameChallenge.pdb
